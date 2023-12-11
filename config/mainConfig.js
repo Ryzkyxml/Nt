@@ -30,14 +30,14 @@ module.exports = {
   mongodb_uri: 'Your_MongoDb_URI', // Register here: https://mongodb.com/#sign-up
   api: {
     url: 'https://api.danitechno.com',
-    key: 'Your_API_key' // Register here: https://daniapi.my.id/#sign-up
+    key: 'sk-7k6j6n0dny4e7k7xl' // Register here: https://daniapi.my.id/#sign-up
   },
   bot: {
-    name: 'Bot Name'
+    name: 'Ryzky Devel'
   },
   owner: {
-    name: ["Owner Name"],
-    number: ["628xxxx"]
+    name: ["Rzdev"],
+    number: ["6283848178379"]
   },
   daily_limit: {
     free: 100,
